@@ -12,4 +12,4 @@ Para rodar esse projeto faz-se necessário:
 
 ## Por que eu fiz esse projeto?
 
-Muita gente da faculdade ou escolas técnicas que ver java, não sabe usar o for ou até mesmo se limitam a somente uma forma de usar o ele, dessa forma eu tomei a iniciativa de criar um breve conteúdo sobre o for, pra despertar a curiosidade da galera.
+Muita gente da faculdade ou escolas técnicas que veêm Java, não sabe usar o for ou até mesmo se limitam a somente uma forma de usar o ele, dessa forma eu tomei a iniciativa de criar um breve conteúdo sobre o for, pra despertar a curiosidade da galera.
